@@ -1,2 +1,30 @@
 # Live_Mult-Lanaguage_Captions
- A Chrome extension that provides real-time multi-language captions for audio input. It captures audio, processes it using a backend server, and displays translated captions in the desired language. Built with a React-based UI and a Node.js backend for audio processing and translation.
+ Live Multi-Language Captions is a simple tool that provides real-time captions and translates spoken text into different languages. It helps people who need captions or translation in live events, making it easier to understand and communicate across language barriers.
+
+#Setup Instructions
+
+#Backend
+#Clone the repo:
+    git clone https://github.com/rj10rushikesh/live-multi-language-captions.git
+    cd live-multi-language-captions/backend
+
+#Install dependencies:
+    npm install
+
+#Start the backend:
+    npm start The server will be running at http://localhost:5000.
+
+#Extension
+    Go to the extension folder:
+    cd ../extension
+
+#Add the extension to Chrome:
+    Open Chrome and go to chrome://extensions/.
+    Enable Developer Mode.
+    Click Load unpacked and select the extension folder.
+    Now the extension will be ready to use!
+
+#Features
+    Live Captions: Converts spoken text into captions.
+    Language Translation: Translates the captions into any language.
+    Chrome Extension: View live captions in the browser.
