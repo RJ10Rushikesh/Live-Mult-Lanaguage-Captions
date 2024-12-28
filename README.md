@@ -4,8 +4,11 @@
 #Setup Instructions
 
 #Backend
+
 #Clone the repo:
+
     git clone [https://github.com/RJ10Rushikesh/live-multi-language-captions.git](https://github.com/RJ10Rushikesh/Live-Mult-Lanaguage-Captions)
+    
     cd live-multi-language-captions/backend
 
 #Install dependencies:
