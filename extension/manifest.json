@@ -1,0 +1,25 @@
+{
+      "manifest_version": 3,
+      "name": "Live Multi-language Caption",
+      "version": "1.0",
+      "description": "A browser extension that provides live captions in multiple languages.",
+      "icons": {
+       "16": "icon.png",
+       "48": "icon.png",
+       "128": "icon.png"
+      },
+      "permissions": [
+        "activeTab",
+        "storage"
+      ],
+      "background": {
+        "service_worker": "background.js"
+      },
+      "action": {
+        "default_popup": "popup.html"
+      },
+      "host_permissions": [
+        "http://localhost:5000/"
+      ]
+    }
+    
