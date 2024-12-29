@@ -41,7 +41,8 @@ This project is a MicroSaaS solution designed to provide real-time captions in m
 
 1. **Clone the Repository**:
    Open your terminal and run:
-   `git clone <repository-url>`
+
+   git clone <repository-url>
 
 3. **Navigate to Backend Directory**:
    Go to the backend folder with:
