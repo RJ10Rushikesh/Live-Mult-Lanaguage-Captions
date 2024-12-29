@@ -1,4 +1,4 @@
-# Live_Mult-Lanaguage_Captions
+![Screenshot (21)](https://github.com/user-attachments/assets/c3311b64-9443-450e-bc56-fdfc901c001a)# Live_Mult-Lanaguage_Captions
  Live Multi-Language Captions is a simple tool that provides real-time captions and translates spoken text into different languages. It helps people who need captions or translation in live events, making it easier to understand and communicate across language barriers.
 
 ## Setup Instructions
@@ -33,7 +33,13 @@
     Chrome Extension: View live captions in the browser.
 
 ## Screenshots
+English to Hindi translation:
+![Screenshot (21)](https://github.com/user-attachments/assets/b8dfefc9-11b0-447e-b1a3-3c2b21835478)
 
-![image](https://github.com/user-attachments/assets/a2e04abe-d893-482a-849c-8c4ea77b90da)
+Hindi to English Translation:
+![Screenshot (23)](https://github.com/user-attachments/assets/047d08de-30ed-4081-9f68-4691eff9b41a)
+
+
+
 
 
